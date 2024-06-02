@@ -8,8 +8,7 @@ https://doi.org/10.1145/3659914.3659915
 
 ## Code
 
-The main code is written using [JAX](https://github.com/google/jax) and is currently located in [here](https://github.com/neilkichler/diff-ml/tree/main/notebooks/pruning). For pruning using Interval Adjoint Significance Analysis we use a C++
-library (supporting AD with Interval types) which can be found [here](https://gitlab.stce.rwth-aachen.de/stce/interval_network).
+The main code is written using [JAX](https://github.com/google/jax) and is currently located in [here](https://github.com/neilkichler/diff-ml/tree/main/notebooks/pruning).
 
 ## Citation
 
